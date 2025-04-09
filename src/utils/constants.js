@@ -1,0 +1,2 @@
+export const CDN_LINK  = "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-cute-panda-logo-design-vector-png-image_12532129.png";
+export const LOGO_LINK = "https://media-assets.swiggy.com/swiggy/image/upload/";

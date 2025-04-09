@@ -1,0 +1,43 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width: 100px;
+}
+.nav-items >ul{
+    padding: 10px;
+    display: flex;
+}
+.nav-items > ul > li{
+    padding: 10px;
+    font-size: 24px;
+    margin: 5px;
+    list-style-type: none;
+}
+
+.search_div{
+    margin: 5px;
+}
+.item-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item-div{
+    margin: 5px;
+    width: 245px;
+    background-color: #f0f0f0;
+    
+}
+.item-div:hover{
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.item-logo{
+    width: 100%;
+    border-radius: 20px;
+}
+.filterBtn1{
+    margin: 5px;
+}
